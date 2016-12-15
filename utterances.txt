@@ -1,0 +1,38 @@
+searchIntent get me stuff happening {date}
+searchIntent get me events for {date}
+searchIntent what are the events {date}
+searchIntent whats on {date}
+searchIntent whats happening {date}
+searchIntent tell me whats happening {date}
+searchIntent what is happening {date}
+searchIntent what is happening on {date}
+searchIntent what do we have on {date}
+searchIntent what events are happening {date}
+searchIntent what events are happening on {date}
+searchIntent is there an event {date}
+searchIntent is there an event on {date}
+searchIntent what are the events {date}
+searchIntent what's on the calendar {date}
+searchIntent what are we doing {date}
+
+searchKeywordIntent when is the next {keyword}
+searchKeywordIntent when are the next {keyword}
+searchKeywordIntent when is the {keyword}
+searchKeywordIntent when is {keyword}
+searchKeywordIntent when do {keyword} start
+searchKeywordIntent when does {keyword} start
+searchKeywordIntent when is {date} {keyword}
+searchKeywordIntent when are the {keyword} on {date}
+searchKeywordIntent are there any {keyword} {date}
+searchKeywordIntent is there a {keyword} {date}
+searchKeywordIntent are there {keyword} {date}
+searchKeywordIntent do we have {keyword} {date}
+searchKeywordIntent do we have {keyword} in {date}
+searchKeywordIntent will we have {keyword} {date}
+searchKeywordIntent does Bellarmine have {keyword} {date}
+searchKeywordIntent will Bellarmine have {keyword} {date}
+searchKeywordIntent do we have a {keyword} in {date}
+
+eventIntent tell me about event {number}
+eventIntent whats event {number}
+eventIntent number {number}
